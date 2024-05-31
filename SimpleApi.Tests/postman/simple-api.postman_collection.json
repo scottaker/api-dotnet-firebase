@@ -1,0 +1,68 @@
+{
+	"info": {
+		"_postman_id": "6e4adf68-9cce-4358-af2f-b50b895ae209",
+		"name": "simple-api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "1131554"
+	},
+	"item": [
+		{
+			"name": "weather-address",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"address\": \"505 Howard St, San Francisco\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5000/Weather/address",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7248",
+					"path": [
+						"Weather",
+						"address"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "weather-location",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"latitude\": 40.7128,\r\n    \"longitude\": -74.0060\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:5000/Weather/location",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7248",
+					"path": [
+						"Weather",
+						"location"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

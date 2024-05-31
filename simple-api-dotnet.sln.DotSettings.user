@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a1f63c5c_002Db995_002D4350_002D8823_002D5905f8c7fe4c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Get_Cities #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::444942BD-EB01-4988-86AC-ED2AE2BF8C8F::net8.0::SimpleApi.Tests.BasicTests.Get_Cities&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::444942BD-EB01-4988-86AC-ED2AE2BF8C8F::net8.0::SimpleApi.Tests.WeatherTests.Get_City_Weather&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::444942BD-EB01-4988-86AC-ED2AE2BF8C8F::net8.0::SimpleApi.Tests.LocationTests.Get_City_Weather&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::444942BD-EB01-4988-86AC-ED2AE2BF8C8F::net8.0::SimpleApi.Tests.LocationTests.Geocode&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::444942BD-EB01-4988-86AC-ED2AE2BF8C8F::net8.0::SimpleApi.Tests.LocationTests.Geocode_Bad_Data&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::444942BD-EB01-4988-86AC-ED2AE2BF8C8F::net8.0::SimpleApi.Tests.WeatherTests.Bad_Address_Is_Empty&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ff55c0e1_002Dc458_002D4c46_002D8da4_002D54135c88567d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Get_Cities" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::444942BD-EB01-4988-86AC-ED2AE2BF8C8F::net8.0::SimpleApi.Tests.Class1.Get_Cities&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

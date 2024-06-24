@@ -4,3 +4,5 @@ obj/
 SimpleApi.Api/appsettings.Development.json
 SimpleApi.Api/appsettings.Production.json
 /SimpleApi.Api/appsettings.Development.json
+firebase-key.json
+

@@ -1,4 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\scott\AppData\Local\Temp\JetBrains\ReSharperPlatformVs17\vAny_3b93a0c0\CoverageData\_simple-api-dotnet.-118441072\Snapshot\snapshot.utdcvr</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a1f63c5c_002Db995_002D4350_002D8823_002D5905f8c7fe4c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Get_Cities #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::444942BD-EB01-4988-86AC-ED2AE2BF8C8F::net8.0::SimpleApi.Tests.BasicTests.Get_Cities&lt;/TestId&gt;&#xD;

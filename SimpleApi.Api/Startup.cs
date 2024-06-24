@@ -27,11 +27,25 @@ public class Startup
         if (env.IsDevelopment())
         {
             app.UseDeveloperExceptionPage();
-            app.UseSwagger();
-            app.UseSwaggerUI();
-            app.UseSwaggerUI(c =>
+            //app.UseSwagger();
+            //app.UseSwaggerUI();
+            //app.UseSwaggerUI(c =>
+            //{
+            //    c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+            //});
+            app.UseCors(builder =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+                var origins = new[]
+                {
+                    "http://localhost:5173",
+                    "http://127.0.0.1:5173",
+                    "http://localhost:4200",
+                    "http://127.0.0.1:4200"
+                };
+                builder
+                    .WithOrigins(origins)
+                    .AllowAnyMethod()
+                    .AllowAnyHeader();
             });
 
         }

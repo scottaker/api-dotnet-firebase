@@ -309,6 +309,7 @@ namespace SimpleApi.Tests.seed
 
         private void Show(DomainModels.ComplaintResponse data)
         {
+            Console.WriteLine("count: " + data.Paging.TotalCount);
             foreach (var item in data.Complaints)
             {
                 Console.WriteLine($"{item.Id,-5} {item.Description}");

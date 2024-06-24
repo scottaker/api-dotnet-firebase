@@ -1,10 +1,8 @@
-﻿using Google.Api.Gax.ResourceNames;
+﻿using System.Text;
 using Google.Cloud.Firestore;
 using Newtonsoft.Json;
 using SimpleApi.Domain.Models.Complaints;
 using SimpleApi.Domain.Services;
-using System.Text;
-using static Google.Cloud.Firestore.V1.StructuredQuery.Types;
 using DataModels = FirebaseDotnet.Data.Models;
 using DomainModels = SimpleApi.Domain.Models.Complaints;
 
@@ -14,6 +12,8 @@ namespace FirebaseDotnet.Data;
 public class ComplaintClient : IComplaintClient
 {
     private const string ProjectName = "banking-complaints";
+    private const string CountUrl = "https://us-central1-banking-complaints.cloudfunctions.net/collection_count";
+
     private readonly FirestoreClient _client;
     private readonly ISupportDataClient _support;
     private readonly IMapper _mapper;
@@ -38,73 +38,67 @@ public class ComplaintClient : IComplaintClient
         var querySnapshot = await firstQuery.GetSnapshotAsync();
         var lastSortValue = GetSortValue(querySnapshot, request.Sort, sortColumn);
 
-
-        AggregateQuery? countQuery = complaints.Count();
         var secondQuery = complaints.OrderBy(sortColumn)
                                     .StartAfter(lastSortValue)
                                     .Limit(request.Paging.PageSize);
-
-
         var snapshots = await secondQuery.GetSnapshotAsync();
         var supports = await GetSupports(snapshots);
-
-        // convert to local type
         var data = snapshots.Documents.Select(Map).ToList();
 
-        // 
-        var count = await CallFunction<int>();
+        // get the count of items
+        var fxRequest = new CountRequest { collection = "complaints" };
+        var countResponse = await CallFunction<CountRequest, CountResponse>(fxRequest, CountUrl);
+        var count = countResponse.count;
+
+
+        //var eRequest = new CountRequest { collection = "events" };
+        //var eResponse = await CallFunction<CountRequest, CountResponse>(eRequest, CountUrl);
+        //var ecount = eResponse.count;
+        //Console.WriteLine("EVENT-COUNT: " + ecount);
+
+
         var response = data.Select(x => Map(x, supports)).ToList();
-        return new Tuple<IEnumerable<Complaint>, int>(response, -1);
+        return new Tuple<IEnumerable<Complaint>, int>(response, count);
     }
 
-    private async Task<string> CallFunction<T>()
+    private async Task<TResponse> CallFunction<TRequest, TResponse>(TRequest request, string url)
     {
         // Function URL
-        //var functionUrl = "https://us-central1-banking-complaints.cloudfunctions.net/collection_count";
-        //var functionUrl = "https://collection-count-5gedgymmeq-uc.a.run.app";
-        var functionUrl = "https://us-central1-banking-complaints.cloudfunctions.net/collection_count";
-        // Data to send to the function (if any)
-        var data = new
-        {
-            // Add your data properties here
-        };
-
-        // Serialize data to JSON
-        var jsonData = JsonConvert.SerializeObject(data);
-
-        // Call the function
-        var response = await CallFirebaseFunctionAsync(functionUrl, jsonData);
-
-        // Process the response
+        var jsonData = JsonConvert.SerializeObject(request);
+        var response = await CallFirebase(url, jsonData);
         Console.WriteLine(response);
-        return response;
+        var value = JsonConvert.DeserializeObject<TResponse>(response);
+
+        return value;
     }
 
-    public static async Task<string> CallFirebaseFunctionAsync(string url, string jsonData)
+    public static async Task<string> CallFirebase(string url, string jsonData)
     {
         using (var client = new HttpClient())
         {
-            // Set up the request
-            //var content = new StringContent(jsonData, Encoding.UTF8, "application/json");
-
-            // Send the request
-            //var response = await client.PostAsync(url, content);
-            var response = await client.GetAsync(url);
-
-            // Read and return the response content
+            var content = new StringContent(jsonData, Encoding.UTF8, "application/json");
+            var response = await client.PostAsync(url, content);
             var responseContent = await response.Content.ReadAsStringAsync();
             return responseContent;
         }
     }
 
+
+    private class CountRequest
+    {
+        public string collection { get; set; }
+    }
+    private class CountResponse
+    {
+        public string collection { get; set; }
+        public int count { get; set; }
+    }
+
+
     private async Task<T> CallFunction1<T>()
     {
         try
         {
-
-
-
-
             var firestore = await _client.Get(ProjectName);
 
             //CloudFunctionsServiceClient client = await CloudFunctionsServiceClient.CreateAsync();

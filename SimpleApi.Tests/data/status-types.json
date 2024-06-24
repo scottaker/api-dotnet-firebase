@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Opened",
+    "text_id": "opened"
+  },
+  {
+    "id": 2,
+    "name": "In Progress",
+    "text_id": "in_progress"
+  },
+  {
+    "id": 3,
+    "name": "Resolved",
+    "text_id": "resolved"
+  },
+  //{
+  //  "id": 4,
+  //  "name": "Escalated",
+  //  "text_id": "escalated"
+  //},
+  //{
+  //  "id": 5,
+  //  "name": "Critical",
+  //  "text_id": "critical"
+  //}
+]

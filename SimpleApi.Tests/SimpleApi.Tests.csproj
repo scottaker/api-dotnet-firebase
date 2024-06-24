@@ -7,6 +7,58 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="data\branches.csv" />
+    <None Remove="data\branches.json" />
+    <None Remove="data\complaint-text.csv" />
+    <None Remove="data\complaint-types.csv" />
+    <None Remove="data\complaint-types.json" />
+    <None Remove="data\complaints.csv" />
+    <None Remove="data\complaints.json" />
+    <None Remove="data\employees.csv" />
+    <None Remove="data\employees.json" />
+    <None Remove="data\entities.txt" />
+    <None Remove="data\event-types.csv" />
+    <None Remove="data\event-types.json" />
+    <None Remove="data\events.csv" />
+    <None Remove="data\events.json" />
+    <None Remove="data\firebase-key.json" />
+    <None Remove="data\status-types.csv" />
+    <None Remove="data\status-types.json" />
+    <None Remove="data\users.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="data\branches.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\complaint-types.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\complaints.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\employees.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\entities.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\event-types.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\events.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\status-types.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\users.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Cloud.Firestore" Version="3.7.0" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.10.0" />
     <PackageReference Include="NUnit" Version="4.1.0" />
   </ItemGroup>
@@ -19,6 +71,12 @@
 
   <ItemGroup>
     <Folder Include="postman\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="data\credentials\firebase-key.json">
+      <CopyToOutputDirectory></CopyToOutputDirectory>
+    </EmbeddedResource>
   </ItemGroup>
 
 </Project>

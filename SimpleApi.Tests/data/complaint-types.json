@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Services",
+        "text_id": "services"
+    },
+    {
+        "id": 2,
+        "name": "Personnel",
+        "text_id": "personnel"
+    },
+    {
+        "id": 3,
+        "name": "Online",
+        "text_id": "online"
+    },
+    {
+        "id": 4,
+        "name": "Facilities",
+        "text_id": "facilities"
+    },
+    {
+        "id": 5,
+        "name": "Technical",
+        "text_id": "technical"
+    },
+    {
+        "id": 6,
+        "name": "Account",
+        "text_id": "account"
+    },
+    {
+        "id": 7,
+        "name": "Billing",
+        "text_id": "billing"
+    },
+    {
+        "id": 8,
+        "name": "Policy",
+        "text_id": "policy"
+    },
+    {
+        "id": 9,
+        "name": "Other",
+        "text_id": "other"
+    }
+]

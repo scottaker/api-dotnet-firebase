@@ -1,0 +1,1001 @@
+EventID,ComplaintID,EmployeeID,EventType,Comments,Timestamp
+1,277602,3701,Resolution,lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea,3/28/2024
+2,773108,278,CusterInteractionAttempt,est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat,8/23/2024
+3,195314,8143,Resolution,sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras,11/2/2024
+4,516654,261,Assignment,platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis,4/5/2024
+5,265047,434,Other,lobortis vel dapibus at diam nam tristique tortor eu pede,9/10/2024
+6,617158,9611,CusterInteractionAttempt,suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla,6/28/2024
+7,174983,7087,Other,nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque,5/28/2024
+8,652620,5917,Note,varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede,2/3/2024
+9,738176,8426,StaffInteraction,lobortis est phasellus sit amet erat nulla tempus vivamus in felis,5/30/2024
+10,499609,4347,CustomerInteraction,nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti,8/9/2024
+11,506836,7764,StaffInteraction,erat id mauris vulputate elementum nullam varius nulla facilisi cras,9/29/2024
+12,319916,6147,Assignment,sapien non mi integer ac neque duis bibendum morbi non quam,4/10/2024
+13,271082,2090,CustomerInteraction,proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante,11/23/2024
+14,553946,8089,Note,duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a,4/30/2024
+15,2464,6864,Assignment,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis,7/25/2024
+16,713334,4860,Note,posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem,4/29/2024
+17,112754,6096,StaffInteractionAttempt,posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus,3/5/2024
+18,26315,6410,StaffInteraction,lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit,10/18/2024
+19,157055,1745,Other,vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit,3/2/2024
+20,124394,4009,StaffInteraction,mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper,2/7/2024
+21,90450,5389,CusterInteractionAttempt,nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla,8/26/2024
+22,690032,6979,CusterInteractionAttempt,id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus,9/7/2024
+23,401319,8144,Note,pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in,5/29/2024
+24,574086,9589,Other,ac lobortis vel dapibus at diam nam tristique tortor eu pede,11/15/2024
+25,31603,1400,Resolution,aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu,2/10/2024
+26,723534,778,StaffInteractionAttempt,amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac,3/22/2024
+27,448293,6438,StaffInteractionAttempt,eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices,12/6/2024
+28,863785,3243,Assignment,turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices,7/11/2024
+29,667437,2489,Assignment,at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus,7/26/2024
+30,649583,8575,Resolution,vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel,12/16/2024
+31,9596,9112,Resolution,donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum,2/19/2024
+32,413774,5496,CustomerInteraction,duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium,2/21/2024
+33,268504,2447,CustomerInteraction,semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio,2/1/2024
+34,785844,1879,StaffInteraction,ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum,7/14/2024
+35,838691,181,CusterInteractionAttempt,nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in,7/2/2024
+36,82726,9720,Resolution,consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo,12/11/2024
+37,851004,8739,StaffInteractionAttempt,in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt,2/23/2024
+38,304386,4316,StaffInteractionAttempt,arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque,10/17/2024
+39,448810,9885,Resolution,amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas,4/20/2024
+40,193317,3096,StaffInteraction,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae,7/25/2024
+41,252483,6364,Assignment,ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at,3/23/2024
+42,565950,9757,Note,molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac,11/5/2024
+43,706935,8670,Note,magna ac consequat metus sapien ut nunc vestibulum ante ipsum,8/20/2024
+44,863156,9811,Assignment,nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia,9/25/2024
+45,457565,984,Resolution,ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac,10/10/2024
+46,333821,6726,StaffInteraction,platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit,4/9/2024
+47,714578,3629,Resolution,integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis,9/5/2024
+48,859476,7003,StaffInteraction,ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec,5/29/2024
+49,452247,6001,Other,curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere,3/20/2024
+50,656573,4819,StaffInteractionAttempt,id luctus nec molestie sed justo pellentesque viverra pede ac diam cras,7/29/2024
+51,730889,8708,StaffInteraction,odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit,7/10/2024
+52,183758,6072,Note,luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur,12/14/2024
+53,136190,2717,CusterInteractionAttempt,augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in,2/23/2024
+54,835135,4302,Resolution,mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa,1/16/2024
+55,771869,5399,Assignment,amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id,6/5/2024
+56,336405,7114,Assignment,dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac,1/7/2024
+57,410294,5785,StaffInteractionAttempt,vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl,5/5/2024
+58,928785,1667,CusterInteractionAttempt,id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at,12/15/2024
+59,579423,3493,StaffInteraction,venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue,4/7/2024
+60,953126,5582,CusterInteractionAttempt,in faucibus orci luctus et ultrices posuere cubilia curae mauris,7/22/2024
+61,211438,3551,Note,turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a,9/16/2024
+62,365418,7624,Other,est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum,1/8/2024
+63,246700,5481,CustomerInteraction,velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo,6/15/2024
+64,421329,4173,StaffInteraction,hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in,1/31/2024
+65,406688,1330,CustomerInteraction,cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes,3/9/2024
+66,939329,257,Other,pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet,9/17/2024
+67,564086,9088,Resolution,sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet,5/16/2024
+68,142675,9671,Other,pharetra magna ac consequat metus sapien ut nunc vestibulum ante,3/26/2024
+69,873131,9293,Resolution,phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim,9/10/2024
+70,562076,2934,CustomerInteraction,quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin,4/3/2024
+71,590033,2055,Assignment,ante vivamus tortor duis mattis egestas metus aenean fermentum donec,3/22/2024
+72,907279,2468,Assignment,est et tempus semper est quam pharetra magna ac consequat metus sapien ut,7/17/2024
+73,478305,5745,CustomerInteraction,porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus,7/30/2024
+74,588188,2077,CustomerInteraction,augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea,6/7/2024
+75,656064,7543,StaffInteraction,eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim,6/17/2024
+76,930370,8658,Resolution,et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis,7/14/2024
+77,652560,4122,Resolution,magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices,9/11/2024
+78,514603,2619,Note,nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis,11/19/2024
+79,143103,3038,CusterInteractionAttempt,ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor,7/28/2024
+80,39151,7029,Assignment,cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae,9/3/2024
+81,406166,2527,CusterInteractionAttempt,elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium,1/13/2024
+82,37416,945,Resolution,dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum,2/12/2024
+83,827276,4886,CustomerInteraction,scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean,8/26/2024
+84,698561,3224,Other,mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet,6/16/2024
+85,841986,8463,Note,vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est,6/13/2024
+86,208427,4800,Other,diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam,7/17/2024
+87,794534,1595,Assignment,semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque,11/30/2024
+88,952905,9129,Resolution,odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce,12/29/2024
+89,605277,6991,Resolution,auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet,7/19/2024
+90,570174,2621,StaffInteractionAttempt,mi in porttitor pede justo eu massa donec dapibus duis at velit eu,8/18/2024
+91,481098,6571,Note,eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id,12/12/2024
+92,10394,5351,Resolution,sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula,3/14/2024
+93,474256,6879,Note,non mi integer ac neque duis bibendum morbi non quam nec,12/16/2024
+94,693692,7100,CusterInteractionAttempt,cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec,12/19/2024
+95,216398,3427,Resolution,luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis,12/19/2024
+96,355357,1375,CusterInteractionAttempt,ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan,11/4/2024
+97,606738,3359,Note,mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo,4/6/2024
+98,161955,2685,StaffInteractionAttempt,ligula nec sem duis aliquam convallis nunc proin at turpis a,2/15/2024
+99,177591,9517,Note,morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet,7/23/2024
+100,634434,527,Other,tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante,10/28/2024
+101,422063,4403,StaffInteractionAttempt,luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam,2/19/2024
+102,563410,2813,Resolution,rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat,7/17/2024
+103,124106,7769,StaffInteractionAttempt,nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante,5/29/2024
+104,810710,3318,Resolution,tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim,12/28/2024
+105,84231,1008,Assignment,cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus,11/10/2024
+106,848141,5679,Resolution,ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae,8/2/2024
+107,322896,6700,Other,orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu,3/27/2024
+108,453152,793,Other,cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi,2/12/2024
+109,51468,1878,StaffInteraction,at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat,4/17/2024
+110,993227,7083,Note,duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in,4/16/2024
+111,530497,3214,Other,at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis,7/17/2024
+112,434892,9957,StaffInteractionAttempt,a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio,3/12/2024
+113,668029,2166,Note,porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc,3/19/2024
+114,505958,192,StaffInteraction,pede ullamcorper augue a suscipit nulla elit ac nulla sed vel,6/20/2024
+115,382235,2955,StaffInteraction,donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla,7/30/2024
+116,653755,6435,Resolution,justo morbi ut odio cras mi pede malesuada in imperdiet,8/14/2024
+117,908738,8672,StaffInteraction,dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien,8/8/2024
+118,307096,8262,StaffInteraction,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales,1/17/2024
+119,295965,9132,Resolution,augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse,6/1/2024
+120,211610,3967,StaffInteractionAttempt,ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris,1/23/2024
+121,885622,8038,CustomerInteraction,ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu pede,1/31/2024
+122,88184,2449,Assignment,mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi,12/26/2024
+123,729664,1334,Other,massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt,8/27/2024
+124,955168,9757,StaffInteractionAttempt,quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris,12/27/2024
+125,446557,4152,StaffInteraction,luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et,4/14/2024
+126,345075,9077,Note,ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor,10/3/2024
+127,749265,4095,StaffInteractionAttempt,nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus,4/2/2024
+128,746543,8536,Other,massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in,6/24/2024
+129,227828,8337,CustomerInteraction,nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum,5/13/2024
+130,323883,7818,Assignment,vel nisl duis ac nibh fusce lacus purus aliquet at feugiat,5/27/2024
+131,598515,5672,Resolution,est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut,10/14/2024
+132,297789,6750,StaffInteraction,donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi,5/16/2024
+133,472768,2665,Other,aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros,10/10/2024
+134,889207,5814,Note,purus phasellus in felis donec semper sapien a libero nam dui proin leo,2/19/2024
+135,568012,6412,Resolution,pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi,5/8/2024
+136,94892,2391,Assignment,magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum,12/5/2024
+137,76165,7630,Assignment,ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare,2/24/2024
+138,967489,6393,Resolution,ligula nec sem duis aliquam convallis nunc proin at turpis a,5/31/2024
+139,315270,6524,Assignment,a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo,2/21/2024
+140,872085,7658,StaffInteraction,sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus,3/14/2024
+141,748733,5376,Other,turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris,8/30/2024
+142,995959,1216,Other,in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien,4/10/2024
+143,341941,711,Other,porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis,11/17/2024
+144,97730,7464,Resolution,ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis,4/7/2024
+145,950301,6310,CusterInteractionAttempt,eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor,11/9/2024
+146,735515,1914,StaffInteraction,volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit,7/6/2024
+147,417356,1745,Assignment,erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis,8/6/2024
+148,380090,3247,Assignment,eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris,9/19/2024
+149,322211,1525,CusterInteractionAttempt,justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,8/30/2024
+150,949806,143,CusterInteractionAttempt,morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque,5/30/2024
+151,784426,9350,Resolution,nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor,6/20/2024
+152,247547,6799,CusterInteractionAttempt,luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque,3/3/2024
+153,785001,9659,Resolution,id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo,3/23/2024
+154,453139,5578,Note,rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis,12/2/2024
+155,853620,1937,Resolution,nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel,5/13/2024
+156,577168,4146,Note,lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in,2/15/2024
+157,564890,5233,CustomerInteraction,in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit,6/11/2024
+158,14942,9638,Other,sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti,7/1/2024
+159,388719,5365,CusterInteractionAttempt,quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci,8/20/2024
+160,945238,8687,CustomerInteraction,posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec,5/22/2024
+161,27939,413,StaffInteractionAttempt,ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat,9/18/2024
+162,598435,9109,Resolution,in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin,9/6/2024
+163,814644,5130,Resolution,odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis,10/21/2024
+164,563279,8540,Other,nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi,7/26/2024
+165,75535,3153,Resolution,quisque erat eros viverra eget congue eget semper rutrum nulla,8/2/2024
+166,934403,3176,Resolution,bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede,12/15/2024
+167,17745,8288,StaffInteraction,convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim,7/15/2024
+168,182499,9416,Resolution,morbi odio odio elementum eu interdum eu tincidunt in leo,7/27/2024
+169,777869,3728,Assignment,integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam,2/16/2024
+170,380330,1876,StaffInteraction,magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi,3/22/2024
+171,429502,8730,Other,odio porttitor id consequat in consequat ut nulla sed accumsan,5/11/2024
+172,276890,7144,StaffInteractionAttempt,metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget,2/25/2024
+173,993016,5641,CustomerInteraction,ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate,9/23/2024
+174,638253,7052,Other,phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in,6/22/2024
+175,713268,6549,Assignment,nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum,5/15/2024
+176,367734,9842,Other,augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere,6/2/2024
+177,969620,6289,Other,fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor,9/3/2024
+178,119846,8584,Assignment,iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo,9/29/2024
+179,112567,1561,CusterInteractionAttempt,magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et,1/9/2024
+180,724968,4911,CustomerInteraction,in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis,10/15/2024
+181,460073,4406,Note,montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque,5/24/2024
+182,649428,8525,StaffInteraction,molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget,11/17/2024
+183,445045,1736,Resolution,donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id,7/12/2024
+184,754357,6860,Other,ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque,5/25/2024
+185,124532,5407,Other,sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque,8/8/2024
+186,950031,4433,Resolution,sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices,3/11/2024
+187,92077,3294,CusterInteractionAttempt,consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat,5/8/2024
+188,536208,2182,Note,quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus,11/14/2024
+189,25710,1024,Assignment,sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris,11/3/2024
+190,859038,1456,CustomerInteraction,amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu,9/25/2024
+191,207400,7315,CustomerInteraction,eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum,9/25/2024
+192,329209,8644,CustomerInteraction,sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum,7/24/2024
+193,454588,1549,CusterInteractionAttempt,orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt,1/16/2024
+194,875313,9124,Other,rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede,1/1/2024
+195,461582,1309,Note,vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non,7/20/2024
+196,225811,637,CustomerInteraction,in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem,9/20/2024
+197,197768,963,CustomerInteraction,fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit,9/22/2024
+198,827713,7696,Assignment,donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla,4/2/2024
+199,760512,7261,Assignment,nulla elit ac nulla sed vel enim sit amet nunc,4/1/2024
+200,347481,3826,StaffInteraction,ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla,9/22/2024
+201,974764,2929,StaffInteractionAttempt,eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est,3/30/2024
+202,853909,2822,CustomerInteraction,ut erat curabitur gravida nisi at nibh in hac habitasse,6/16/2024
+203,956176,2051,StaffInteractionAttempt,sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede,7/21/2024
+204,43096,1939,Resolution,luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus,2/10/2024
+205,886451,3069,Resolution,orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse,4/3/2024
+206,743954,6976,Note,donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla,9/26/2024
+207,724273,5114,CustomerInteraction,turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque,1/27/2024
+208,934521,3852,Resolution,tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi,1/21/2024
+209,76320,9321,Assignment,potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut,1/3/2024
+210,456951,9970,CustomerInteraction,pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus,1/6/2024
+211,645657,4127,CustomerInteraction,rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet,9/24/2024
+212,225231,939,Note,orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec,1/13/2024
+213,527537,1961,StaffInteraction,leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum,6/16/2024
+214,217530,1667,Resolution,neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo,12/30/2024
+215,107219,2041,Note,erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer,4/9/2024
+216,693290,7891,Note,non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis,9/3/2024
+217,258383,8832,Assignment,justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris,9/6/2024
+218,698238,9820,StaffInteraction,purus phasellus in felis donec semper sapien a libero nam dui proin leo odio,1/20/2024
+219,791954,4318,CustomerInteraction,semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum,4/5/2024
+220,159359,9896,CustomerInteraction,augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus,5/8/2024
+221,27102,8420,Other,habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum,8/17/2024
+222,211865,765,StaffInteractionAttempt,sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus,2/29/2024
+223,725074,5382,Assignment,nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque,5/26/2024
+224,512260,5300,StaffInteractionAttempt,donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus,5/25/2024
+225,425085,2545,StaffInteractionAttempt,ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent,3/3/2024
+226,297777,7104,Assignment,a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien,2/11/2024
+227,655548,6540,StaffInteractionAttempt,vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit,7/7/2024
+228,962263,8779,CusterInteractionAttempt,donec ut mauris eget massa tempor convallis nulla neque libero convallis,1/1/2024
+229,462926,170,Other,consequat lectus in est risus auctor sed tristique in tempus,9/18/2024
+230,163962,8457,Resolution,phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor,11/29/2024
+231,656477,2899,CustomerInteraction,justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est,1/19/2024
+232,378631,5008,Resolution,consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien,7/29/2024
+233,86198,6328,CusterInteractionAttempt,tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus,10/16/2024
+234,657794,3725,CusterInteractionAttempt,nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam,4/5/2024
+235,834386,5815,Resolution,vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus,7/22/2024
+236,685676,1992,StaffInteractionAttempt,at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat,1/13/2024
+237,960187,8178,Resolution,massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus,8/21/2024
+238,849980,8465,Note,vestibulum sit amet cursus id turpis integer aliquet massa id,3/7/2024
+239,106976,9098,StaffInteraction,dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat,9/16/2024
+240,261869,6880,Resolution,et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci,9/17/2024
+241,523239,827,StaffInteraction,in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt,10/12/2024
+242,936719,1862,Resolution,habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem,8/28/2024
+243,710746,691,CustomerInteraction,vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa,8/6/2024
+244,418433,2851,Other,maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio,2/17/2024
+245,518744,1214,Note,in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla,5/22/2024
+246,204592,5895,CustomerInteraction,sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla,2/2/2024
+247,228834,5068,CustomerInteraction,ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam,4/4/2024
+248,782365,8449,Resolution,feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien,4/27/2024
+249,567072,2073,Note,lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum,7/10/2024
+250,110602,659,StaffInteractionAttempt,bibendum morbi non quam nec dui luctus rutrum nulla tellus in,1/25/2024
+251,603140,7145,Resolution,est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim,12/15/2024
+252,920437,2132,Assignment,maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at,11/21/2024
+253,209033,5537,Assignment,duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam,2/20/2024
+254,112641,7842,CustomerInteraction,dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum,4/30/2024
+255,585724,309,Resolution,nulla nunc purus phasellus in felis donec semper sapien a,5/21/2024
+256,682455,7508,CusterInteractionAttempt,nisl venenatis lacinia aenean sit amet justo morbi ut odio cras,5/15/2024
+257,394111,3771,StaffInteractionAttempt,curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel,8/31/2024
+258,288697,342,CustomerInteraction,in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae,3/23/2024
+259,732043,7499,CustomerInteraction,convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum,4/24/2024
+260,948140,2424,Note,urna ut tellus nulla ut erat id mauris vulputate elementum,10/21/2024
+261,619176,6317,CustomerInteraction,habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo,9/20/2024
+262,384715,6592,CustomerInteraction,et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor,6/3/2024
+263,917123,3761,StaffInteraction,et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a,7/16/2024
+264,159763,173,Resolution,nulla facilisi cras non velit nec nisi vulputate nonummy maecenas,5/20/2024
+265,710851,9420,StaffInteraction,pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a,7/19/2024
+266,211173,6073,Other,metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu,12/22/2024
+267,953077,8355,StaffInteraction,potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non,12/19/2024
+268,393296,1836,Note,facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt,7/3/2024
+269,543451,8640,Resolution,mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis,2/9/2024
+270,745445,3304,Other,mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam,4/19/2024
+271,670790,1370,CusterInteractionAttempt,est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus,7/13/2024
+272,709056,5369,Note,lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo,11/20/2024
+273,123331,4927,StaffInteractionAttempt,lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat,3/31/2024
+274,812236,2442,Other,quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus,12/26/2024
+275,859707,1816,Note,in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus,11/26/2024
+276,927444,6185,CusterInteractionAttempt,gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet,2/28/2024
+277,109968,4252,CusterInteractionAttempt,in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in,4/21/2024
+278,968859,178,Resolution,vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt,5/20/2024
+279,786351,7961,StaffInteractionAttempt,ligula suspendisse ornare consequat lectus in est risus auctor sed,6/24/2024
+280,118162,1087,StaffInteractionAttempt,orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi,3/10/2024
+281,583546,9479,StaffInteraction,risus semper porta volutpat quam pede lobortis ligula sit amet eleifend,11/24/2024
+282,918059,8469,StaffInteractionAttempt,vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor,9/11/2024
+283,614448,4558,StaffInteraction,mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit,1/17/2024
+284,380390,4930,Resolution,tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat,2/11/2024
+285,925837,5784,Note,aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in,12/22/2024
+286,540580,2852,StaffInteractionAttempt,luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi,4/7/2024
+287,338035,221,CusterInteractionAttempt,lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat,5/27/2024
+288,125369,4224,StaffInteraction,justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus,8/30/2024
+289,338111,3203,StaffInteraction,cras mi pede malesuada in imperdiet et commodo vulputate justo,6/9/2024
+290,359619,9022,Note,nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam,4/10/2024
+291,760267,2719,Assignment,nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus,4/7/2024
+292,20091,8546,Assignment,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue,9/4/2024
+293,873181,2092,Other,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum,1/10/2024
+294,840423,1328,Other,luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec,7/2/2024
+295,445859,3009,CusterInteractionAttempt,consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat,9/16/2024
+296,665455,3885,StaffInteraction,magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia,12/20/2024
+297,859801,5684,Note,fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam,4/9/2024
+298,718502,3714,StaffInteractionAttempt,nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit,5/17/2024
+299,437409,4867,Assignment,molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis,5/10/2024
+300,570755,2850,StaffInteractionAttempt,ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at,4/5/2024
+301,247813,603,Note,sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus,10/21/2024
+302,982897,8425,Resolution,morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit,10/12/2024
+303,205797,5854,Note,congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis,10/25/2024
+304,822325,9969,Other,vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod,9/28/2024
+305,172320,6282,Other,hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut,11/30/2024
+306,883586,300,StaffInteractionAttempt,aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio,5/31/2024
+307,611302,324,Other,massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut,9/16/2024
+308,982966,3323,Assignment,duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget,1/13/2024
+309,973830,277,CustomerInteraction,a odio in hac habitasse platea dictumst maecenas ut massa,9/29/2024
+310,625206,3332,Other,dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla,2/16/2024
+311,560729,7386,Resolution,orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh,12/22/2024
+312,982539,7203,CusterInteractionAttempt,nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus,6/27/2024
+313,522535,7549,Note,egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget,4/10/2024
+314,740275,4262,CusterInteractionAttempt,libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus,2/17/2024
+315,528100,5370,Note,integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla,10/5/2024
+316,780579,7586,StaffInteractionAttempt,ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis,5/5/2024
+317,125276,3696,Resolution,donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede,5/11/2024
+318,404034,97,Other,vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at,9/14/2024
+319,278369,4864,StaffInteraction,nam congue risus semper porta volutpat quam pede lobortis ligula,1/25/2024
+320,559610,4990,Assignment,turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla,3/11/2024
+321,343003,8775,Assignment,mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper,9/26/2024
+322,788675,106,CustomerInteraction,cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis,9/20/2024
+323,776840,3341,StaffInteractionAttempt,aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed,6/22/2024
+324,801475,8272,StaffInteractionAttempt,ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices,11/28/2024
+325,940181,1064,Resolution,neque duis bibendum morbi non quam nec dui luctus rutrum nulla,10/15/2024
+326,110785,689,StaffInteractionAttempt,phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id,3/6/2024
+327,594754,4525,CusterInteractionAttempt,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget,3/6/2024
+328,639157,9166,Other,tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla,9/16/2024
+329,424402,3006,CustomerInteraction,praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula,12/28/2024
+330,162892,4196,CustomerInteraction,suscipit ligula in lacus curabitur at ipsum ac tellus semper,2/20/2024
+331,434007,9535,Other,justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in,4/21/2024
+332,718670,1135,Other,pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices,7/1/2024
+333,675603,8924,StaffInteractionAttempt,nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper,8/4/2024
+334,503005,1598,Note,augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices,12/18/2024
+335,112354,3983,Note,suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla,2/15/2024
+336,953075,2407,CustomerInteraction,quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac,5/23/2024
+337,667407,2162,StaffInteraction,augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus,10/20/2024
+338,793356,4300,Note,convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum,1/6/2024
+339,743125,8480,Resolution,quis turpis sed ante vivamus tortor duis mattis egestas metus,12/13/2024
+340,851239,1963,Other,nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum,10/19/2024
+341,943528,7726,Note,in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices,9/10/2024
+342,825152,9518,CustomerInteraction,mi integer ac neque duis bibendum morbi non quam nec dui luctus,3/27/2024
+343,536531,1445,StaffInteractionAttempt,magna at nunc commodo placerat praesent blandit nam nulla integer,2/18/2024
+344,816058,2555,CusterInteractionAttempt,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis,1/4/2024
+345,26209,1690,Assignment,faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet,9/9/2024
+346,216085,1576,Note,vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit,5/10/2024
+347,53864,3342,Other,in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum,4/8/2024
+348,919367,4218,CusterInteractionAttempt,eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum,7/26/2024
+349,63788,1243,CustomerInteraction,amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum,2/29/2024
+350,175803,7681,Note,sed vestibulum sit amet cursus id turpis integer aliquet massa,2/21/2024
+351,469699,7137,Resolution,faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus,2/17/2024
+352,582030,9795,Assignment,nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero,9/12/2024
+353,125778,443,Resolution,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet,6/8/2024
+354,696673,3383,Other,ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla,9/5/2024
+355,447979,3450,Other,morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl,8/25/2024
+356,477261,5495,Resolution,lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac,2/21/2024
+357,922551,6118,CusterInteractionAttempt,duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum,7/29/2024
+358,164053,7340,Other,pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut,12/3/2024
+359,280686,820,CusterInteractionAttempt,faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet,9/24/2024
+360,277602,1481,Resolution,aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit,2/10/2024
+361,773831,9155,CusterInteractionAttempt,laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis,3/1/2024
+362,457574,9553,StaffInteraction,sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque,3/14/2024
+363,315566,8141,Note,sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis,8/20/2024
+364,395031,7686,CustomerInteraction,cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non,2/15/2024
+365,736365,1367,Resolution,quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra,9/21/2024
+366,153795,7389,Other,adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula,5/8/2024
+367,907607,7124,Note,ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl,7/24/2024
+368,301698,4431,CusterInteractionAttempt,vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean,7/12/2024
+369,737535,2571,Resolution,dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus,6/23/2024
+370,487910,1410,CustomerInteraction,in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim,3/12/2024
+371,727077,1398,Assignment,augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst,10/20/2024
+372,140723,7630,CusterInteractionAttempt,bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis,1/10/2024
+373,590907,7381,Note,ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris,12/24/2024
+374,859775,8348,CustomerInteraction,pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu,2/13/2024
+375,148096,2920,StaffInteraction,urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo,7/22/2024
+376,81868,118,CusterInteractionAttempt,nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget,5/9/2024
+377,9461,4103,Resolution,felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus,1/9/2024
+378,387328,3895,StaffInteractionAttempt,accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus,11/29/2024
+379,551803,8693,Resolution,neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan,5/30/2024
+380,521919,6388,Assignment,praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem,1/15/2024
+381,314226,8205,CusterInteractionAttempt,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam,9/18/2024
+382,180574,9274,Other,quisque ut erat curabitur gravida nisi at nibh in hac habitasse,12/30/2024
+383,66343,65,Assignment,mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum,11/21/2024
+384,194044,3092,CustomerInteraction,justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat,9/21/2024
+385,224375,3723,Other,ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam,8/2/2024
+386,323377,3377,StaffInteraction,adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus,12/27/2024
+387,704815,4930,StaffInteractionAttempt,ut odio cras mi pede malesuada in imperdiet et commodo vulputate,8/4/2024
+388,490457,5005,Resolution,placerat praesent blandit nam nulla integer pede justo lacinia eget,2/3/2024
+389,810885,997,StaffInteraction,nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus,8/12/2024
+390,565603,360,Other,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio,12/29/2024
+391,92306,8012,Note,amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius,4/25/2024
+392,390827,7487,StaffInteractionAttempt,elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget,12/29/2024
+393,7270,5275,CusterInteractionAttempt,pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus,9/13/2024
+394,227582,1868,Note,orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio,4/10/2024
+395,747004,8380,CustomerInteraction,ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc,1/2/2024
+396,858911,6344,StaffInteractionAttempt,id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi,2/24/2024
+397,261566,4683,Resolution,non lectus aliquam sit amet diam in magna bibendum imperdiet nullam,5/10/2024
+398,274488,1854,CusterInteractionAttempt,vivamus in felis eu sapien cursus vestibulum proin eu mi,1/13/2024
+399,390764,7562,StaffInteraction,vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque,5/7/2024
+400,958082,8703,Resolution,ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci,2/8/2024
+401,212041,1799,StaffInteraction,vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus,3/29/2024
+402,342266,908,StaffInteractionAttempt,urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam,11/26/2024
+403,108581,2728,Note,nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus,2/28/2024
+404,7305,3056,StaffInteraction,fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget,5/3/2024
+405,782281,3521,Resolution,sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque,11/13/2024
+406,633729,2798,Resolution,neque libero convallis eget eleifend luctus ultricies eu nibh quisque,11/2/2024
+407,451873,7938,StaffInteractionAttempt,nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio,8/30/2024
+408,947203,2042,Assignment,in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi,1/30/2024
+409,534797,9096,Assignment,quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec,6/29/2024
+410,781509,3972,Note,vulputate elementum nullam varius nulla facilisi cras non velit nec nisi,7/10/2024
+411,262883,680,CusterInteractionAttempt,suscipit ligula in lacus curabitur at ipsum ac tellus semper,1/17/2024
+412,476326,3495,CustomerInteraction,eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus,8/22/2024
+413,354819,6402,StaffInteractionAttempt,eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante,1/10/2024
+414,866854,632,Note,nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac,2/8/2024
+415,537334,1100,Other,condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan,5/4/2024
+416,637759,1166,Assignment,magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et,8/3/2024
+417,228001,1003,Assignment,eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper,12/11/2024
+418,214465,9374,StaffInteractionAttempt,at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget,9/18/2024
+419,967707,2333,Resolution,rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam,3/30/2024
+420,739511,1714,StaffInteractionAttempt,ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices,3/29/2024
+421,935353,3732,Assignment,elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt,6/13/2024
+422,452783,5628,Resolution,eget tempus vel pede morbi porttitor lorem id ligula suspendisse,4/19/2024
+423,818798,9689,Other,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia,1/1/2024
+424,105958,4212,Note,dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor,7/20/2024
+425,21532,5340,Assignment,fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel,8/3/2024
+426,913406,9172,Assignment,ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem,1/28/2024
+427,452183,6271,CustomerInteraction,turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa,8/20/2024
+428,953666,3785,CusterInteractionAttempt,vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec,12/9/2024
+429,147442,8383,StaffInteraction,pretium quis lectus suspendisse potenti in eleifend quam a odio in hac,6/12/2024
+430,995250,7482,StaffInteractionAttempt,sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac,1/23/2024
+431,102091,3758,StaffInteractionAttempt,eget eros elementum pellentesque quisque porta volutpat erat quisque erat,10/23/2024
+432,505776,8555,StaffInteraction,sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus,12/14/2024
+433,523405,560,CustomerInteraction,est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum,3/6/2024
+434,924317,3548,StaffInteraction,ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque,9/30/2024
+435,584951,9723,Note,in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec,3/28/2024
+436,753091,4785,Assignment,a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie,10/29/2024
+437,993793,4335,Resolution,egestas metus aenean fermentum donec ut mauris eget massa tempor,7/28/2024
+438,650464,9995,Assignment,nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit,2/8/2024
+439,629922,4,Other,tellus nulla ut erat id mauris vulputate elementum nullam varius nulla,7/28/2024
+440,932903,9823,StaffInteraction,nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit,5/17/2024
+441,32835,761,Other,pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse,12/17/2024
+442,531248,8563,CusterInteractionAttempt,curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero,11/2/2024
+443,32605,1211,Note,enim leo rhoncus sed vestibulum sit amet cursus id turpis,4/2/2024
+444,373216,7458,Other,mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae,5/29/2024
+445,65095,4732,Note,semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis,9/29/2024
+446,883124,8204,Note,mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh,2/6/2024
+447,648074,7214,CustomerInteraction,vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis,1/26/2024
+448,670112,1929,Note,ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem,2/3/2024
+449,683808,6804,Note,ligula in lacus curabitur at ipsum ac tellus semper interdum,7/25/2024
+450,611822,9421,Other,rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper,11/29/2024
+451,17670,5388,CustomerInteraction,donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet,7/5/2024
+452,354689,1795,StaffInteraction,lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum,6/19/2024
+453,660905,267,CustomerInteraction,suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem,8/7/2024
+454,973266,8682,Resolution,orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices,1/13/2024
+455,137522,235,Assignment,nulla mollis molestie lorem quisque ut erat curabitur gravida nisi,10/24/2024
+456,366353,425,CusterInteractionAttempt,eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in,8/14/2024
+457,599421,3504,CustomerInteraction,quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere,8/20/2024
+458,619469,1585,Other,nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl,4/1/2024
+459,736204,8019,CustomerInteraction,in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi,4/13/2024
+460,24123,7232,Other,nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy,3/1/2024
+461,94413,8122,Resolution,quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum,8/19/2024
+462,718216,408,Note,turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla,6/2/2024
+463,53787,5418,StaffInteraction,pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea,6/9/2024
+464,198815,772,Assignment,magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in,8/29/2024
+465,151614,8759,Other,varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices,4/4/2024
+466,118784,2224,CustomerInteraction,lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse,3/30/2024
+467,297786,6755,CusterInteractionAttempt,fermentum donec ut mauris eget massa tempor convallis nulla neque libero,5/28/2024
+468,421410,9369,CusterInteractionAttempt,habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem,5/27/2024
+469,931440,8951,CustomerInteraction,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque,11/18/2024
+470,816869,339,CusterInteractionAttempt,id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam,1/2/2024
+471,339001,9676,StaffInteractionAttempt,interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at,6/10/2024
+472,26610,2820,Note,eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem,9/4/2024
+473,614968,6346,StaffInteraction,a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra,5/9/2024
+474,382006,9712,Note,ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut,11/26/2024
+475,885308,8794,StaffInteractionAttempt,amet justo morbi ut odio cras mi pede malesuada in imperdiet,9/23/2024
+476,387178,3978,StaffInteraction,justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio,5/12/2024
+477,564008,1759,StaffInteraction,sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis,9/25/2024
+478,810923,6305,Note,felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor,11/1/2024
+479,694794,1717,StaffInteractionAttempt,viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper,1/2/2024
+480,333890,5555,StaffInteractionAttempt,nec molestie sed justo pellentesque viverra pede ac diam cras,2/23/2024
+481,156159,2970,CusterInteractionAttempt,tristique in tempus sit amet sem fusce consequat nulla nisl,11/25/2024
+482,234066,5813,CustomerInteraction,posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat,10/12/2024
+483,608288,9163,StaffInteraction,ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla,3/17/2024
+484,685347,7703,Note,suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus,8/1/2024
+485,914805,6594,Note,arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu,4/27/2024
+486,351214,5480,CustomerInteraction,at velit vivamus vel nulla eget eros elementum pellentesque quisque porta,11/9/2024
+487,380275,2295,CusterInteractionAttempt,nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis,11/19/2024
+488,434234,199,Note,porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse,3/1/2024
+489,847014,3226,Other,venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut,9/19/2024
+490,164499,6947,CusterInteractionAttempt,curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac,3/13/2024
+491,708444,3445,CustomerInteraction,molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas,9/8/2024
+492,565745,5012,Other,hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt,12/29/2024
+493,367323,8404,Assignment,ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas,1/2/2024
+494,170739,5930,CusterInteractionAttempt,molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci,5/21/2024
+495,217976,8007,StaffInteraction,morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla,5/16/2024
+496,575708,4594,Other,pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis,12/8/2024
+497,696582,28,StaffInteractionAttempt,facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum,9/6/2024
+498,781830,2390,CusterInteractionAttempt,sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus,10/29/2024
+499,134174,7213,Other,eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis,6/21/2024
+500,659647,126,CustomerInteraction,pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat,12/30/2024
+501,259611,809,Assignment,nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer,10/28/2024
+502,379017,1165,CusterInteractionAttempt,orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi,6/26/2024
+503,844779,2518,StaffInteraction,sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis,11/28/2024
+504,861225,9682,Resolution,elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue,10/13/2024
+505,238089,1711,StaffInteraction,quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam,5/2/2024
+506,271961,7686,CusterInteractionAttempt,commodo placerat praesent blandit nam nulla integer pede justo lacinia eget,8/5/2024
+507,589900,9985,Note,integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc,5/28/2024
+508,697614,5482,Assignment,in faucibus orci luctus et ultrices posuere cubilia curae donec,9/21/2024
+509,836580,1343,StaffInteraction,vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien,5/12/2024
+510,863393,8750,Note,nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit,10/3/2024
+511,690069,8813,StaffInteraction,enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur,10/9/2024
+512,151290,5307,Resolution,odio curabitur convallis duis consequat dui nec nisi volutpat eleifend,12/15/2024
+513,860209,5162,CustomerInteraction,vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis,1/16/2024
+514,464877,3712,CustomerInteraction,turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus,11/21/2024
+515,110979,3414,Note,dui vel nisl duis ac nibh fusce lacus purus aliquet,3/27/2024
+516,897933,111,CustomerInteraction,lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna,7/23/2024
+517,768619,9866,Note,sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci,6/22/2024
+518,554150,5193,Resolution,lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum,5/21/2024
+519,439739,6493,Resolution,nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget,5/28/2024
+520,325562,7002,StaffInteraction,commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit,8/1/2024
+521,558087,2455,StaffInteraction,vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat,6/1/2024
+522,663358,1987,Note,quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices,7/30/2024
+523,603453,6403,CustomerInteraction,commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt,2/4/2024
+524,363508,3245,CusterInteractionAttempt,sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium,8/11/2024
+525,973714,3787,CusterInteractionAttempt,pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue,10/15/2024
+526,181175,6517,Other,sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam,4/29/2024
+527,505546,9949,Assignment,tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget,10/22/2024
+528,623498,7983,StaffInteraction,ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat,7/30/2024
+529,598498,6149,CusterInteractionAttempt,ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque,2/17/2024
+530,65739,8068,Note,nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas,4/28/2024
+531,292581,6314,CusterInteractionAttempt,magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus,3/20/2024
+532,826497,4435,Note,maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante,10/27/2024
+533,598184,637,Note,mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla,3/10/2024
+534,220178,7816,CusterInteractionAttempt,scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam,8/6/2024
+535,46702,1111,Note,vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in,3/30/2024
+536,435995,8828,StaffInteraction,habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent,7/2/2024
+537,277049,4978,Other,aliquet massa id lobortis convallis tortor risus dapibus augue vel,10/6/2024
+538,589816,883,Assignment,consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim,7/31/2024
+539,772141,5014,Resolution,maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque,4/11/2024
+540,378944,2417,StaffInteraction,congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna,7/21/2024
+541,673726,4967,CusterInteractionAttempt,luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis,6/30/2024
+542,438910,2963,StaffInteraction,rutrum nulla nunc purus phasellus in felis donec semper sapien a libero,12/27/2024
+543,770187,5685,Resolution,venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in,3/23/2024
+544,949840,5357,StaffInteraction,donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla,8/17/2024
+545,479442,9229,Assignment,adipiscing elit proin risus praesent lectus vestibulum quam sapien varius,7/18/2024
+546,757283,9371,Resolution,eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio,3/16/2024
+547,123155,7796,Resolution,sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum,2/25/2024
+548,794613,2771,StaffInteraction,lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu,9/25/2024
+549,589296,4774,CustomerInteraction,eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo,4/2/2024
+550,18047,2875,CusterInteractionAttempt,in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et,11/16/2024
+551,762293,8397,Assignment,placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque,1/19/2024
+552,956632,6536,Assignment,ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at,10/31/2024
+553,312486,1973,Note,dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in,8/5/2024
+554,97068,1343,CustomerInteraction,turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor,7/15/2024
+555,303606,9504,Note,convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum,3/25/2024
+556,370493,2661,CustomerInteraction,lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales,12/8/2024
+557,693531,7731,Note,aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam,7/25/2024
+558,36830,1669,Other,enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus,12/23/2024
+559,769485,1549,StaffInteraction,sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et,4/21/2024
+560,386587,6107,Other,aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque,1/12/2024
+561,543640,5389,CustomerInteraction,blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque,5/30/2024
+562,836355,5860,Note,semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus,4/5/2024
+563,781297,4505,Resolution,porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc,10/4/2024
+564,414565,8752,CusterInteractionAttempt,aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec,1/2/2024
+565,205710,8330,CusterInteractionAttempt,ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere,11/5/2024
+566,887084,9738,Assignment,auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi,2/3/2024
+567,986971,7152,CustomerInteraction,nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh,11/13/2024
+568,793518,2797,CusterInteractionAttempt,consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus,8/13/2024
+569,795333,7872,CustomerInteraction,sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede,12/4/2024
+570,190550,2787,CustomerInteraction,consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,8/30/2024
+571,322135,2683,Note,placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel,9/12/2024
+572,214947,8197,Note,aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt,12/29/2024
+573,940438,7784,Resolution,nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien,1/10/2024
+574,549989,8645,StaffInteractionAttempt,luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est,2/11/2024
+575,147385,6307,CusterInteractionAttempt,a libero nam dui proin leo odio porttitor id consequat in,2/2/2024
+576,812250,2563,StaffInteractionAttempt,consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum,7/29/2024
+577,395864,3812,Note,enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem,6/25/2024
+578,933663,4011,Assignment,consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit,2/20/2024
+579,286959,7418,Resolution,faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti,11/21/2024
+580,423651,6201,CustomerInteraction,non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in,7/22/2024
+581,984260,4424,StaffInteraction,eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo,1/22/2024
+582,206668,4320,Assignment,venenatis lacinia aenean sit amet justo morbi ut odio cras,12/4/2024
+583,687282,7395,StaffInteraction,faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam,11/25/2024
+584,496286,3298,StaffInteraction,potenti in eleifend quam a odio in hac habitasse platea,11/10/2024
+585,293065,7186,StaffInteraction,consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien,4/15/2024
+586,145394,2758,Assignment,quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor,10/21/2024
+587,345838,3972,Assignment,lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est,5/12/2024
+588,787456,4956,StaffInteractionAttempt,eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit,11/6/2024
+589,961964,9311,Other,tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum,12/25/2024
+590,742084,7435,Assignment,erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia,4/11/2024
+591,384984,1460,Other,augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat,12/24/2024
+592,962016,3637,Assignment,ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit,1/4/2024
+593,741247,3814,CustomerInteraction,dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo,1/16/2024
+594,520798,7931,Note,convallis eget eleifend luctus ultricies eu nibh quisque id justo sit,4/22/2024
+595,372332,4878,Other,lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus,4/11/2024
+596,254848,3939,StaffInteractionAttempt,scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis,11/22/2024
+597,453362,3256,StaffInteraction,consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante,10/24/2024
+598,73206,8959,CustomerInteraction,turpis integer aliquet massa id lobortis convallis tortor risus dapibus,11/4/2024
+599,184979,5008,StaffInteractionAttempt,orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras,5/29/2024
+600,584982,7334,CusterInteractionAttempt,bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem,10/17/2024
+601,925523,4673,CusterInteractionAttempt,molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst,4/20/2024
+602,725581,4768,CustomerInteraction,volutpat erat quisque erat eros viverra eget congue eget semper,7/14/2024
+603,938804,751,CusterInteractionAttempt,vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat,2/10/2024
+604,901722,8585,Other,id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis,5/24/2024
+605,731492,9795,CustomerInteraction,donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum,4/26/2024
+606,304471,7505,Resolution,sed ante vivamus tortor duis mattis egestas metus aenean fermentum,1/19/2024
+607,103809,7080,Assignment,vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec,2/12/2024
+608,153297,8513,Note,sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede,7/10/2024
+609,33523,4263,Other,imperdiet nullam orci pede venenatis non sodales sed tincidunt eu,2/5/2024
+610,620830,3545,CusterInteractionAttempt,eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in,6/26/2024
+611,857345,2886,StaffInteraction,eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed,11/11/2024
+612,109595,5461,StaffInteraction,morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet,8/5/2024
+613,389056,421,StaffInteraction,dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero,3/11/2024
+614,294670,1624,Resolution,duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer,12/21/2024
+615,92604,3205,StaffInteractionAttempt,tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia,4/14/2024
+616,502231,8988,Note,accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae,3/12/2024
+617,951082,2216,Other,dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia,8/14/2024
+618,145465,7951,Note,turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis,8/29/2024
+619,591945,5859,Other,nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel,2/27/2024
+620,856307,8030,Resolution,posuere metus vitae ipsum aliquam non mauris morbi non lectus,5/27/2024
+621,754903,6399,StaffInteractionAttempt,tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra,12/13/2024
+622,239018,8076,Assignment,egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla,3/30/2024
+623,110794,906,Other,sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum,5/14/2024
+624,481742,61,Assignment,fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam,3/25/2024
+625,570774,5185,CustomerInteraction,nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et,3/1/2024
+626,76631,6690,Resolution,erat eros viverra eget congue eget semper rutrum nulla nunc,3/1/2024
+627,103204,6983,Resolution,risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus,1/12/2024
+628,214407,3989,Assignment,nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet,7/31/2024
+629,753911,558,StaffInteractionAttempt,erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer,3/10/2024
+630,88095,468,Note,velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque,4/27/2024
+631,217560,4700,CusterInteractionAttempt,interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel,12/16/2024
+632,366157,5638,CusterInteractionAttempt,sapien arcu sed augue aliquam erat volutpat in congue etiam justo,2/4/2024
+633,124725,6817,CustomerInteraction,dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris,7/16/2024
+634,718450,8856,Resolution,mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean,12/7/2024
+635,772644,1022,StaffInteractionAttempt,posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit,1/23/2024
+636,806831,6501,Resolution,massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras,3/14/2024
+637,324488,5792,Assignment,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan,11/25/2024
+638,932051,2846,Note,id turpis integer aliquet massa id lobortis convallis tortor risus,6/17/2024
+639,150427,9755,CusterInteractionAttempt,parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus,10/5/2024
+640,797966,7351,Other,ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec,5/31/2024
+641,903298,4409,CusterInteractionAttempt,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis,6/5/2024
+642,323041,6543,Assignment,mi sit amet lobortis sapien sapien non mi integer ac,9/1/2024
+643,666493,866,StaffInteraction,nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum,5/12/2024
+644,317637,9985,Assignment,feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio,9/6/2024
+645,306620,9301,Other,dictumst etiam faucibus cursus urna ut tellus nulla ut erat id,11/27/2024
+646,4625,1211,StaffInteraction,proin interdum mauris non ligula pellentesque ultrices phasellus id sapien,3/13/2024
+647,405325,230,CustomerInteraction,viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum,6/27/2024
+648,618642,5635,Resolution,curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus,6/16/2024
+649,751834,928,Note,magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget,7/16/2024
+650,228060,6775,Note,turpis a pede posuere nonummy integer non velit donec diam neque,2/27/2024
+651,321092,8339,Assignment,sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis,2/7/2024
+652,639869,1978,StaffInteractionAttempt,non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi,7/20/2024
+653,124917,9980,StaffInteraction,tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse,5/25/2024
+654,629525,3689,StaffInteraction,et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut,10/4/2024
+655,838415,5433,Assignment,lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet,8/20/2024
+656,257509,2247,CustomerInteraction,potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non,1/22/2024
+657,790445,410,Assignment,diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus,8/3/2024
+658,994466,6833,CusterInteractionAttempt,ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing,1/21/2024
+659,944898,6124,StaffInteraction,non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in,5/22/2024
+660,830204,1811,StaffInteractionAttempt,amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor,5/26/2024
+661,794639,6548,CustomerInteraction,montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor,1/5/2024
+662,389136,6240,CusterInteractionAttempt,cursus vestibulum proin eu mi nulla ac enim in tempor turpis,11/4/2024
+663,394978,4203,Resolution,lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id,2/12/2024
+664,305290,6039,StaffInteraction,leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor,11/3/2024
+665,631017,2190,CusterInteractionAttempt,sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum,3/30/2024
+666,801285,4395,Assignment,proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien,9/16/2024
+667,778213,3893,StaffInteractionAttempt,leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus,7/12/2024
+668,801860,855,Assignment,faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus,5/10/2024
+669,735893,3036,Other,venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium,8/19/2024
+670,799473,4301,Other,ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et,9/28/2024
+671,978150,5259,Note,molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget,9/24/2024
+672,172256,6353,Note,sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel,12/29/2024
+673,47721,6567,Assignment,vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas,8/4/2024
+674,492958,1859,Other,vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti,12/1/2024
+675,399771,2907,StaffInteraction,nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque,10/11/2024
+676,472326,4619,Assignment,in purus eu magna vulputate luctus cum sociis natoque penatibus,3/11/2024
+677,289928,7658,CusterInteractionAttempt,rutrum ac lobortis vel dapibus at diam nam tristique tortor,4/7/2024
+678,265396,2823,CusterInteractionAttempt,sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae,8/2/2024
+679,235602,8469,CustomerInteraction,eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis,4/1/2024
+680,450394,8890,Assignment,donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu,4/22/2024
+681,177114,9873,Note,nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus,8/11/2024
+682,910255,9332,StaffInteraction,proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio,2/13/2024
+683,591518,8331,Other,erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non,8/2/2024
+684,318526,2021,Other,vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur,4/13/2024
+685,837174,8780,Resolution,augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam,5/15/2024
+686,301356,9883,StaffInteraction,dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante,3/9/2024
+687,196170,5090,CusterInteractionAttempt,eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa,8/24/2024
+688,103189,163,Other,sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus,7/26/2024
+689,748730,1422,Resolution,consequat metus sapien ut nunc vestibulum ante ipsum primis in,3/15/2024
+690,673605,4609,StaffInteraction,tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim,9/10/2024
+691,146868,387,Other,amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et,8/18/2024
+692,630959,3558,Assignment,in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu,1/9/2024
+693,302734,9089,CusterInteractionAttempt,duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit,7/30/2024
+694,602985,6165,Other,praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo,7/13/2024
+695,427791,5023,StaffInteraction,suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam,12/2/2024
+696,268030,557,CusterInteractionAttempt,ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum,3/16/2024
+697,100965,4447,Assignment,iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate,6/17/2024
+698,950585,5664,Other,viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper,11/27/2024
+699,189926,1000,Other,quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante,7/14/2024
+700,57081,9054,StaffInteractionAttempt,et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien,3/10/2024
+701,568180,7864,Resolution,enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam,9/6/2024
+702,701083,896,Assignment,odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in,3/2/2024
+703,279923,9576,StaffInteraction,porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in,5/27/2024
+704,990392,7886,CusterInteractionAttempt,suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit,10/26/2024
+705,837275,3636,Assignment,integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula,10/26/2024
+706,810442,1777,Resolution,placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus,2/24/2024
+707,27518,5190,StaffInteraction,vivamus in felis eu sapien cursus vestibulum proin eu mi,5/10/2024
+708,421099,1265,CustomerInteraction,maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas,7/28/2024
+709,366062,705,Assignment,nulla nunc purus phasellus in felis donec semper sapien a libero,11/25/2024
+710,310552,8528,Assignment,bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce,12/21/2024
+711,464415,9304,Assignment,leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat,5/13/2024
+712,191378,7002,Assignment,vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros,12/28/2024
+713,929350,1647,CusterInteractionAttempt,diam erat fermentum justo nec condimentum neque sapien placerat ante,1/1/2024
+714,59830,3962,Resolution,sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed,12/30/2024
+715,885400,2909,CustomerInteraction,ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum,6/13/2024
+716,718493,1687,Note,in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet,3/29/2024
+717,897406,6365,Other,morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam,11/12/2024
+718,100062,3539,Other,quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat,1/9/2024
+719,450967,8428,Other,odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec,11/4/2024
+720,876772,3851,Other,morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec,1/22/2024
+721,435713,9401,Note,nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse,8/28/2024
+722,746515,9564,Note,nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo,8/2/2024
+723,556838,4578,StaffInteraction,consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl,9/5/2024
+724,334511,5958,StaffInteractionAttempt,augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse,6/1/2024
+725,105837,1394,StaffInteractionAttempt,placerat ante nulla justo aliquam quis turpis eget elit sodales,6/14/2024
+726,868601,6952,CusterInteractionAttempt,non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum,3/27/2024
+727,659661,4761,Other,aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent,10/17/2024
+728,965309,7746,Other,in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla,7/11/2024
+729,286425,2900,Assignment,sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit,5/28/2024
+730,501648,3434,StaffInteractionAttempt,risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum,6/1/2024
+731,243359,2223,CusterInteractionAttempt,cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec,7/15/2024
+732,180032,6472,StaffInteraction,sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris,12/3/2024
+733,646409,9740,Assignment,convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat,2/4/2024
+734,387700,1755,Assignment,massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam,3/26/2024
+735,745409,1449,StaffInteraction,metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu,7/22/2024
+736,18958,4046,Resolution,amet sem fusce consequat nulla nisl nunc nisl duis bibendum,5/14/2024
+737,296001,3986,StaffInteractionAttempt,bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus,1/24/2024
+738,928793,5372,Assignment,justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus,6/21/2024
+739,59078,9619,CusterInteractionAttempt,metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit,1/30/2024
+740,395251,7556,Resolution,augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec,11/13/2024
+741,430387,7209,StaffInteraction,nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper,2/10/2024
+742,533786,6041,Assignment,amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus,9/24/2024
+743,557061,1524,Other,tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam,3/18/2024
+744,324383,203,Assignment,nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros,12/16/2024
+745,17688,8634,Other,laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed,10/8/2024
+746,962753,4922,CusterInteractionAttempt,interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec,8/27/2024
+747,991149,9322,Other,interdum in ante vestibulum ante ipsum primis in faucibus orci luctus,10/31/2024
+748,642867,6391,Resolution,dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer,12/12/2024
+749,854700,2140,StaffInteraction,mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac,1/27/2024
+750,137011,9928,StaffInteraction,nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu,1/14/2024
+751,642731,238,Assignment,pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget,1/17/2024
+752,791475,3768,CusterInteractionAttempt,pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer,4/16/2024
+753,914684,5191,Resolution,praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in,2/6/2024
+754,1755,4823,Note,luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac,10/31/2024
+755,81376,3108,Other,aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat,1/13/2024
+756,171577,3221,Other,lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi,9/20/2024
+757,207549,5533,CustomerInteraction,quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh,1/27/2024
+758,477446,8718,CusterInteractionAttempt,pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien,5/19/2024
+759,235893,8720,Note,cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec,10/26/2024
+760,103049,9670,Note,accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas,6/6/2024
+761,811630,9497,StaffInteraction,eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit,5/14/2024
+762,581191,2044,CusterInteractionAttempt,mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum,9/10/2024
+763,864786,677,CustomerInteraction,nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla,5/18/2024
+764,343330,5622,Note,at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae,2/25/2024
+765,679287,5798,StaffInteractionAttempt,lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi,5/5/2024
+766,387516,6054,Assignment,eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas,11/20/2024
+767,178429,3829,StaffInteractionAttempt,a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla,9/9/2024
+768,670422,8219,Resolution,lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci,10/20/2024
+769,480911,586,CustomerInteraction,ut at dolor quis odio consequat varius integer ac leo pellentesque,9/3/2024
+770,897718,3938,CustomerInteraction,eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id,12/15/2024
+771,12610,9013,Note,enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin,5/26/2024
+772,156151,136,CusterInteractionAttempt,sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et,7/21/2024
+773,395378,1660,StaffInteractionAttempt,augue luctus tincidunt nulla mollis molestie lorem quisque ut erat,4/5/2024
+774,574832,4417,StaffInteractionAttempt,potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut,9/27/2024
+775,744171,3478,Note,sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra,5/27/2024
+776,624745,7366,Other,convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla,11/22/2024
+777,932961,4337,Other,rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat,9/9/2024
+778,70037,4164,StaffInteraction,in hac habitasse platea dictumst maecenas ut massa quis augue,3/8/2024
+779,670858,3626,Assignment,pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum,2/26/2024
+780,361996,6894,StaffInteraction,eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in,12/14/2024
+781,320867,3042,StaffInteraction,ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor,5/15/2024
+782,221453,9604,Other,ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate,2/8/2024
+783,566955,4405,StaffInteractionAttempt,convallis eget eleifend luctus ultricies eu nibh quisque id justo sit,6/16/2024
+784,849104,8085,Resolution,aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante,5/24/2024
+785,598872,6856,Assignment,ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit,1/8/2024
+786,721294,481,StaffInteractionAttempt,pede ullamcorper augue a suscipit nulla elit ac nulla sed vel,7/31/2024
+787,486536,4881,StaffInteraction,justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus,1/6/2024
+788,940494,2503,StaffInteraction,elit proin interdum mauris non ligula pellentesque ultrices phasellus id,11/29/2024
+789,758414,3643,Assignment,maecenas tristique est et tempus semper est quam pharetra magna,5/5/2024
+790,354055,726,Resolution,quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et,11/15/2024
+791,763740,6363,CusterInteractionAttempt,viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis,12/21/2024
+792,929786,3615,Assignment,blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue,4/2/2024
+793,902370,3469,StaffInteraction,justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet,9/30/2024
+794,923117,8358,Resolution,a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla,12/9/2024
+795,598621,2818,CusterInteractionAttempt,eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis,12/29/2024
+796,954110,5828,CustomerInteraction,ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus,10/15/2024
+797,79539,9848,Assignment,in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est,2/22/2024
+798,748325,1275,CusterInteractionAttempt,nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis,11/4/2024
+799,591307,183,Resolution,lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae,7/30/2024
+800,484841,3596,Other,interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing,9/13/2024
+801,409141,5794,Assignment,nulla suspendisse potenti cras in purus eu magna vulputate luctus,8/31/2024
+802,829212,5518,CustomerInteraction,cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum,7/28/2024
+803,899410,2494,Resolution,pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed,5/13/2024
+804,252168,4565,StaffInteractionAttempt,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna,9/29/2024
+805,146115,8566,Resolution,faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices,8/11/2024
+806,430310,5988,Assignment,blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia,5/6/2024
+807,544911,6722,CusterInteractionAttempt,mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui,1/31/2024
+808,874982,8405,StaffInteractionAttempt,eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus,11/22/2024
+809,965097,5835,Resolution,nec nisi volutpat eleifend donec ut dolor morbi vel lectus,2/14/2024
+810,79207,2527,Assignment,in libero ut massa volutpat convallis morbi odio odio elementum eu interdum,5/2/2024
+811,45966,5731,Resolution,sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum,6/9/2024
+812,430880,974,Note,dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at,9/7/2024
+813,301941,6325,CusterInteractionAttempt,justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices,1/5/2024
+814,183651,7,Assignment,eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque,10/13/2024
+815,155852,7584,StaffInteraction,eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia,12/15/2024
+816,102467,1437,StaffInteraction,suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam,1/25/2024
+817,577199,3976,Other,ipsum integer a nibh in quis justo maecenas rhoncus aliquam,5/28/2024
+818,866676,8373,Assignment,sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla,8/6/2024
+819,467138,5883,StaffInteractionAttempt,sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat,3/1/2024
+820,792390,2457,StaffInteraction,sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut,11/1/2024
+821,771882,9102,Other,porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce,3/31/2024
+822,155679,9707,StaffInteraction,at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis,5/30/2024
+823,447107,2387,StaffInteraction,est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac,10/15/2024
+824,642838,3762,CusterInteractionAttempt,mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem,10/11/2024
+825,170075,6287,CusterInteractionAttempt,eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum,10/29/2024
+826,613298,3601,CusterInteractionAttempt,cras mi pede malesuada in imperdiet et commodo vulputate justo,1/27/2024
+827,236011,953,CusterInteractionAttempt,quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede,9/11/2024
+828,685075,4840,StaffInteraction,nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed,8/29/2024
+829,76302,491,Assignment,nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in,11/1/2024
+830,254956,2980,Other,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales,10/24/2024
+831,917829,2164,Resolution,sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in,5/7/2024
+832,576849,4287,Other,nam dui proin leo odio porttitor id consequat in consequat,1/2/2024
+833,816241,1073,Assignment,rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi,10/26/2024
+834,418294,9839,Other,praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante,6/22/2024
+835,742702,2070,Note,sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in,7/21/2024
+836,537876,6977,CusterInteractionAttempt,at nulla suspendisse potenti cras in purus eu magna vulputate,11/14/2024
+837,547420,7332,StaffInteraction,lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet,10/8/2024
+838,999103,8407,Note,sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis,10/16/2024
+839,531331,1838,Assignment,fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget,8/20/2024
+840,931733,9841,Other,in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat,12/19/2024
+841,526413,831,StaffInteraction,dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque,10/14/2024
+842,342741,6419,Assignment,molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas,6/27/2024
+843,276995,8319,CustomerInteraction,orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus,4/11/2024
+844,715844,7880,StaffInteraction,gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras,2/22/2024
+845,20793,2235,Resolution,auctor sed tristique in tempus sit amet sem fusce consequat,12/8/2024
+846,39143,2728,Resolution,ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla,9/14/2024
+847,545916,330,StaffInteraction,justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum,11/15/2024
+848,866567,8054,StaffInteractionAttempt,maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta,4/28/2024
+849,379134,6681,Other,turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh,9/21/2024
+850,179467,4285,StaffInteraction,luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium,8/27/2024
+851,860674,8082,Note,habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt,5/25/2024
+852,569838,2093,StaffInteractionAttempt,erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in,3/19/2024
+853,620777,2100,Resolution,tempus semper est quam pharetra magna ac consequat metus sapien,2/8/2024
+854,149829,5715,CusterInteractionAttempt,sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam,5/27/2024
+855,691895,3721,StaffInteractionAttempt,nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem,12/21/2024
+856,874391,1094,Assignment,proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat,12/10/2024
+857,125117,36,StaffInteraction,ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non,9/7/2024
+858,326373,4561,StaffInteractionAttempt,mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh,8/8/2024
+859,935982,9195,Assignment,vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi,2/3/2024
+860,12334,5439,StaffInteraction,varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede,8/8/2024
+861,543244,5791,Other,integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit,1/29/2024
+862,188784,5539,Note,pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla,6/28/2024
+863,931877,6586,Other,lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla,12/25/2024
+864,529192,8873,Other,ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse,3/24/2024
+865,346,7341,Note,sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus,5/3/2024
+866,912136,4182,Note,in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum,1/2/2024
+867,968763,6126,Note,ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus,4/28/2024
+868,581900,3165,Note,velit vivamus vel nulla eget eros elementum pellentesque quisque porta,12/26/2024
+869,193808,7574,Note,integer pede justo lacinia eget tincidunt eget tempus vel pede morbi,8/23/2024
+870,740537,5189,CusterInteractionAttempt,cras mi pede malesuada in imperdiet et commodo vulputate justo in,8/5/2024
+871,888672,74,StaffInteraction,ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra,6/19/2024
+872,110017,2324,Note,in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum,5/8/2024
+873,510446,9056,StaffInteraction,id consequat in consequat ut nulla sed accumsan felis ut,2/28/2024
+874,667308,274,CustomerInteraction,dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus,12/12/2024
+875,409820,1895,Assignment,proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius,7/25/2024
+876,401268,3773,StaffInteraction,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum,11/2/2024
+877,667156,9491,StaffInteraction,felis fusce posuere felis sed lacus morbi sem mauris laoreet,8/28/2024
+878,884509,2691,Note,nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac,10/16/2024
+879,754005,7883,CusterInteractionAttempt,dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros,10/9/2024
+880,131824,3468,CusterInteractionAttempt,lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam,5/21/2024
+881,304111,2067,Other,volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam,10/5/2024
+882,452340,900,Resolution,mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus,10/18/2024
+883,641062,3365,StaffInteractionAttempt,nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula,3/6/2024
+884,393711,59,Note,feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce,3/25/2024
+885,662897,1599,Note,eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in,1/16/2024
+886,54097,1980,CusterInteractionAttempt,sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet,2/11/2024
+887,750611,8686,Resolution,tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc,8/3/2024
+888,144615,5465,Note,posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus,1/19/2024
+889,200843,3275,Resolution,curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac,7/22/2024
+890,884670,6857,Other,at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit,10/11/2024
+891,904736,1493,CusterInteractionAttempt,felis eu sapien cursus vestibulum proin eu mi nulla ac,4/14/2024
+892,270507,6408,Note,amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus,11/16/2024
+893,12216,5520,CustomerInteraction,dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo,1/30/2024
+894,997567,4406,Resolution,sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum,10/1/2024
+895,270766,6429,Note,duis mattis egestas metus aenean fermentum donec ut mauris eget,4/16/2024
+896,184133,6540,Assignment,proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing,6/21/2024
+897,190170,244,Other,amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo,3/22/2024
+898,755882,1626,StaffInteraction,aenean auctor gravida sem praesent id massa id nisl venenatis,2/13/2024
+899,278989,7506,CusterInteractionAttempt,eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero,1/2/2024
+900,639752,557,StaffInteractionAttempt,curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu,4/5/2024
+901,267229,5656,Note,ipsum aliquam non mauris morbi non lectus aliquam sit amet,4/7/2024
+902,297231,4765,Resolution,luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti,1/11/2024
+903,444969,757,Assignment,duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim,7/1/2024
+904,604369,5265,CustomerInteraction,nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus,6/27/2024
+905,215952,2654,CustomerInteraction,pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante,2/9/2024
+906,748126,6533,Resolution,fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa,11/28/2024
+907,794350,9425,Resolution,magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien,4/17/2024
+908,625666,5916,Note,nullam porttitor lacus at turpis donec posuere metus vitae ipsum,1/30/2024
+909,416680,8647,Resolution,nulla quisque arcu libero rutrum ac lobortis vel dapibus at,6/29/2024
+910,324054,794,CusterInteractionAttempt,convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut,1/18/2024
+911,196079,9371,CusterInteractionAttempt,integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula,3/18/2024
+912,535353,5773,Note,curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in,5/16/2024
+913,672605,7019,CusterInteractionAttempt,mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam,3/14/2024
+914,280493,6654,Note,augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed,8/23/2024
+915,979351,3114,Note,velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum,1/29/2024
+916,379780,4895,Assignment,felis ut at dolor quis odio consequat varius integer ac leo pellentesque,9/3/2024
+917,521243,6394,Note,congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus,12/29/2024
+918,986691,1340,StaffInteractionAttempt,egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend,10/17/2024
+919,648164,5403,Note,ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem,2/6/2024
+920,707108,3156,Other,ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo,10/20/2024
+921,234874,6266,Other,at turpis a pede posuere nonummy integer non velit donec,9/7/2024
+922,895239,4633,Other,ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede,7/3/2024
+923,352093,8326,CustomerInteraction,vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,12/18/2024
+924,7575,668,Other,non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel,11/6/2024
+925,291918,1679,Note,aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta,5/30/2024
+926,114101,1113,Resolution,ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non,5/24/2024
+927,547485,8447,Other,quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique,9/12/2024
+928,256056,8040,Other,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris,4/6/2024
+929,47382,258,Note,odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie,8/19/2024
+930,268568,5818,CusterInteractionAttempt,curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis,2/17/2024
+931,878523,3876,Assignment,justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec,5/23/2024
+932,838665,7541,Other,lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue,8/12/2024
+933,289273,7763,CusterInteractionAttempt,in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla,12/6/2024
+934,108238,6967,Resolution,erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst,8/27/2024
+935,381991,7827,Note,a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor,7/1/2024
+936,301576,4407,CustomerInteraction,a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante,4/25/2024
+937,218704,5830,CustomerInteraction,diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi,3/30/2024
+938,299297,5251,Note,cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis,6/19/2024
+939,998970,5414,Other,mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer,5/2/2024
+940,468472,4507,StaffInteraction,mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis,7/5/2024
+941,198503,7802,Note,blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus,8/6/2024
+942,280761,147,Other,fusce posuere felis sed lacus morbi sem mauris laoreet ut,4/12/2024
+943,472269,2329,StaffInteractionAttempt,sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi,5/2/2024
+944,203653,2059,StaffInteraction,tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet,2/27/2024
+945,65069,1277,Note,lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem,12/5/2024
+946,303146,3764,Note,maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at,4/25/2024
+947,197274,7889,Note,nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi,10/20/2024
+948,957111,577,CusterInteractionAttempt,nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor,3/9/2024
+949,318166,5294,Other,ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac,4/4/2024
+950,534888,1868,StaffInteraction,nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante,9/22/2024
+951,89854,2621,StaffInteraction,mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget,9/7/2024
+952,188882,6053,StaffInteraction,et magnis dis parturient montes nascetur ridiculus mus etiam vel augue,8/17/2024
+953,249371,1195,Note,eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat,2/29/2024
+954,248945,2891,CusterInteractionAttempt,in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus,4/15/2024
+955,578653,748,Assignment,convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante,9/18/2024
+956,303789,2192,CustomerInteraction,ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim,10/28/2024
+957,956903,6020,Note,convallis eget eleifend luctus ultricies eu nibh quisque id justo sit,8/21/2024
+958,259062,7899,Other,consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam,10/23/2024
+959,137211,188,StaffInteractionAttempt,luctus et ultrices posuere cubilia curae mauris viverra diam vitae,9/22/2024
+960,680464,3903,StaffInteractionAttempt,hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo,11/9/2024
+961,348534,6279,Other,sem praesent id massa id nisl venenatis lacinia aenean sit amet justo,10/1/2024
+962,122464,4227,Resolution,vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien,9/6/2024
+963,101968,661,StaffInteraction,aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus,6/28/2024
+964,580455,5583,Resolution,at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel,2/1/2024
+965,837438,3488,Note,cras in purus eu magna vulputate luctus cum sociis natoque penatibus,1/7/2024
+966,331181,3703,StaffInteraction,luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi,8/16/2024
+967,905811,8506,CustomerInteraction,porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam,1/15/2024
+968,400755,6686,Assignment,et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien,7/6/2024
+969,97630,1654,StaffInteraction,eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris,11/11/2024
+970,465165,1156,StaffInteractionAttempt,aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet,3/3/2024
+971,270396,1787,StaffInteraction,in faucibus orci luctus et ultrices posuere cubilia curae mauris,2/19/2024
+972,431964,9558,CustomerInteraction,placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan,8/15/2024
+973,924311,8937,Note,orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit,12/18/2024
+974,311801,5005,Assignment,tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis,4/5/2024
+975,106573,4193,Resolution,ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor,8/19/2024
+976,244457,5465,StaffInteraction,ipsum praesent blandit lacinia erat vestibulum sed magna at nunc,8/22/2024
+977,323255,8157,Note,lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a,7/5/2024
+978,810835,4834,StaffInteraction,ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed,1/18/2024
+979,751055,6976,StaffInteraction,morbi a ipsum integer a nibh in quis justo maecenas rhoncus,3/19/2024
+980,29696,498,Note,maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien,7/25/2024
+981,846787,3217,CustomerInteraction,in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc,7/6/2024
+982,30912,5341,StaffInteractionAttempt,molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea,2/26/2024
+983,423447,8995,Resolution,felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi,10/11/2024
+984,824103,65,Note,amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo,3/20/2024
+985,55266,5348,CusterInteractionAttempt,orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus,12/1/2024
+986,964280,5374,Resolution,mattis odio donec vitae nisi nam ultrices libero non mattis,5/20/2024
+987,468043,5163,StaffInteraction,elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est,11/26/2024
+988,309392,8811,Other,eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus,11/26/2024
+989,966238,7241,Resolution,eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat,7/6/2024
+990,683138,4256,Note,non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus,2/22/2024
+991,467117,1999,CustomerInteraction,tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum,2/17/2024
+992,718304,6806,StaffInteraction,non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede,3/29/2024
+993,712059,9491,CusterInteractionAttempt,vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est,3/21/2024
+994,694068,1159,Assignment,orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in,3/14/2024
+995,984810,8767,StaffInteractionAttempt,eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam,10/14/2024
+996,563994,7102,Other,tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu,9/22/2024
+997,527318,6737,Note,lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque,6/6/2024
+998,79664,9889,CustomerInteraction,dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean,9/24/2024
+999,188727,8537,StaffInteractionAttempt,risus semper porta volutpat quam pede lobortis ligula sit amet,9/26/2024
+1000,960386,7876,Other,sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl,7/8/2024

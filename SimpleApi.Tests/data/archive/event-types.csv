@@ -1,0 +1,9 @@
+EventTypeId, Name, Description
+1, Assignment, An employee is assigned to handle this complaint
+2, CustomerInteraction, A customer interaction occurs
+3, CustomerInteractionAttempt, An attempt was made to interact with the customer
+4, StaffInteraction, A staff member is interacted with
+5, StaffInteractionAttempt, An attempt was made to interact with staff
+6, Resolution, The complaint is resolved
+7, Note, Additional notes are added to this complaint
+8, Other, Other

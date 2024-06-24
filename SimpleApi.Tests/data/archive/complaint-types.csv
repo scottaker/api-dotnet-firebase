@@ -1,0 +1,10 @@
+ComplaintTypeId, Name, Description
+1, Services, Services
+2, Personnel, Personnel
+3, Online, Online
+4, Facilities, Facilities
+5, Technical, Technical
+6, Account, Account
+7, Billing, Billing
+8, Policy, Policy
+9, Other, Other

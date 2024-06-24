@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Assignment",
+        "text_id": "assignment"
+    },
+    {
+        "id": 2,
+        "name": "Customer Interaction",
+        "text_id": "customer_interaction"
+    },
+    {
+        "id": 3,
+        "name": "Customer Interaction Attempt",
+        "text_id": "customer_interaction_attempt"
+    },
+    {
+        "id": 4,
+        "name": "Staff Interaction",
+        "text_id": "staff_interaction"
+    },
+    {
+        "id": 5,
+        "name": "Staff Interaction Attempt",
+        "text_id": "staff_interaction_attempt"
+    },
+    {
+        "id": 6,
+        "name": "Resolution",
+        "text_id": "resolution"
+    },
+    {
+        "id": 7,
+        "name": "Note",
+        "text_id": "note"
+    },
+    {
+        "id": 8,
+        "name": "Other",
+        "text_id": "other"
+    }
+]

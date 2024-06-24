@@ -14,6 +14,7 @@
     <None Remove="data\complaint-types.json" />
     <None Remove="data\complaints.csv" />
     <None Remove="data\complaints.json" />
+    <None Remove="data\credentials\firebase-key.json" />
     <None Remove="data\employees.csv" />
     <None Remove="data\employees.json" />
     <None Remove="data\entities.txt" />
@@ -70,13 +71,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="data\credentials\" />
     <Folder Include="postman\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <EmbeddedResource Include="data\credentials\firebase-key.json">
-      <CopyToOutputDirectory></CopyToOutputDirectory>
-    </EmbeddedResource>
   </ItemGroup>
 
 </Project>

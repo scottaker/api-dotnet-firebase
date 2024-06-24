@@ -142,3 +142,4 @@ public class WeatherLocation
     [JsonPropertyName("tz_id")]
     public string TimeZoneId { get; set; }
 }
+

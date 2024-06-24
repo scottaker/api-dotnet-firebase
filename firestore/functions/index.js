@@ -41,6 +41,33 @@ const admin = require('firebase-admin');
 admin.initializeApp();
 
 
+// Example Firebase function in JavaScript
+exports.collection_count = functions.https.onRequest(async (req, res) => {
+    // const default_collection 
+    let working_collection = 'complaints';
+
+    const data = req.body;
+    try {
+        if (data && data.collection) {
+            working_collection = data.collection;
+        }
+        const db = getFirestore();
+
+        const collectionRef = db.collection(working_collection);
+        const snapshot = await collectionRef.count().get();
+        const count = snapshot.data().count;
+
+        const value = { count: count, collection: working_collection };
+        res.status(200).send(value);
+    }
+    catch (err) {
+        res.status(500).send({ error: err, body: data });
+    }
+});
+
+
+
+
 // const sanitizer = require("./sanitizer");
 // [END imports]
 
@@ -55,26 +82,6 @@ exports.call_collection_count = onCall(async (request, response) => {
     return value;
 });
 */
-// Example Firebase function in JavaScript
-exports.collection_count = functions.https.onRequest(async (req, res) => {
-    const data = req.body;
-
-    try {
-        const db = getFirestore();
-        const collectionRef = db.collection('complaints');
-        const snapshot = await collectionRef.count().get();
-        const count = snapshot.data().count;
-
-        const value = { count: count };
-        // const value = { test: 1 };
-        // Process the data
-        // res.status(200).send(JSON.stringify(value));
-        res.status(200).send(value);
-    }
-    catch (err) {
-        res.status(500).send(err);
-    }
-});
 
 // [START v2allAdd]
 // [START v2addFunctionTrigger]
